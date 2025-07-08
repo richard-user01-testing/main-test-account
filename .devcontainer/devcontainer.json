@@ -1,0 +1,14 @@
+{
+  "name": "Malicious Prebuild Test",
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "Richard-user04-testing/ultimate_bug_bounty_structure-": {
+          "permissions": {
+            "pull_requests": "write"
+          }
+        }
+      }
+    }
+  }
+}
